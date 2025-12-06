@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Payment failed but card was charged",
+    "description": "Customer reports that their payment failed on checkout, but their credit card statement shows a pending charge.",
+    "status": "open",
+    "priority": "P2",
+    "category": "billing",
+    "created_by_user_id": 1,
+    "customer_id": 1
+  },
+  {
+    "id": 2,
+    "title": "Service outage in us-west-2",
+    "description": "Monitoring detected increased error rates and latency for API requests in region us-west-2.",
+    "status": "open",
+    "priority": "P1",
+    "category": "outage",
+    "created_by_user_id": 1,
+    "customer_id": 2
+  },
+  {
+    "id": 3,
+    "title": "Inspection tool camera error 0x54",
+    "description": "Fab engineer reports that the inspection tool camera intermittently fails with error 0x54 during wafer scans.",
+    "status": "open",
+    "priority": "P3",
+    "category": "bug",
+    "created_by_user_id": 2,
+    "customer_id": 2
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Troubleshooting Failed Payments with Pending Charges",
+    "body": "If a payment fails but the card shows a pending charge, explain that the authorization hold will drop within 3-5 business days. Confirm with the payment provider if necessary, and offer a manual retry or alternative payment method.",
+    "tags": "billing,payments,refunds"
+  },
+  {
+    "id": 2,
+    "title": "API Outage Runbook for us-west-2",
+    "body": "When error rates spike in us-west-2, first check service health dashboards, then roll traffic to a healthy region if possible. Notify the on-call SRE and update the status page if customer-facing impact is confirmed.",
+    "tags": "outage,api,runbook"
+  },
+  {
+    "id": 3,
+    "title": "Inspection Tool Camera Error 0x54",
+    "body": "Error 0x54 usually indicates intermittent connectivity issues with the camera module. Instruct the engineer to reseat connectors, capture logs, and run the built-in hardware diagnostics. Escalate to hardware if error persists.",
+    "tags": "fab,inspection,hardware,error-0x54"
+  },
+  {
+    "id": 4,
+    "title": "General Support Response Guidelines",
+    "body": "Always acknowledge the customer's issue, restate the problem in your own words, and provide a clear next step. Avoid jargon and set expectations for follow-up time.",
+    "tags": "support,communication"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Acme Retail Corp",
+    "email": "ops@acme-retail.com",
+    "segment": "Enterprise",
+    "region": "US",
+    "risk_score": 8.5
+  },
+  {
+    "id": 2,
+    "name": "Nova Fab Systems",
+    "email": "engineering@novafab.com",
+    "segment": "Enterprise",
+    "region": "EU",
+    "risk_score": 7.2
+  }
+]
