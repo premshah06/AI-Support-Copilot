@@ -409,17 +409,5 @@ Full documentation is available in the [docs](docs/) folder:
 - **Frontend**: [Component Library](frontend/COMPONENT_LIBRARY.md), [Design System](frontend/DESIGN_SYSTEM_SETUP.md), [Performance](frontend/PERFORMANCE_OPTIMIZATION_SUMMARY.md)
 - **Implementation**: [Architecture](docs/implementation/IMPLEMENTATION_SUMMARY.md), [Frontend Details](docs/implementation/FRONTEND_IMPLEMENTATION_COMPLETE.md)
 
-See the [Documentation Index](docs/README.md) for a complete list.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 
 **Built with ❤️ using modern web technologies**
