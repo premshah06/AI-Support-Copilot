@@ -421,22 +421,5 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- Google for Gemini API
-- OpenAI for GPT API
-- Vercel for shadcn/ui components
-- Tailwind Labs for Tailwind CSS
-- The React and FastAPI communities
-
-## 📧 Contact
-
-For questions or support, please open an issue on GitHub.
-
----
 
 **Built with ❤️ using modern web technologies**
